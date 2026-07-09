@@ -10,6 +10,6 @@ Pingz0<br>Germany-based Minecraft developer focused on C++, TypeScript.<br>I mai
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pingzz0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Pingzz0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pingzz0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="github-stats.png" alt="git.identity stats card" width="560">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
